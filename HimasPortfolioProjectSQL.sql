@@ -1,4 +1,4 @@
---- Following along with Alex The Analyst's Youtube Project for Data Analysis
+---  Project for sharpening Data Analysis concepts such as cleaning data ,ETL 
 
 
 
