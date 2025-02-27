@@ -10,7 +10,7 @@ INSERT into employee values(101, 'Rajat', 'Admin', 4000);
 INSERT into employee values(102, 'Brian', 'HR', 3000);
 INSERT into employee values(103, 'Janine', 'IT', 4000);
 INSERT into employee values(104, 'Jayesh', 'Finance', 6500);
-INSERT into employee values(105, 'Rana', 'HR', 3000);
+INSERT into employee values(105, 'Baker', 'HR', 3000);
 INSERT into employee values(106, 'Hardeep',  'Finance', 5000);
 INSERT into employee values(107, 'Preet', 'HR', 7000);
 INSERT into employee values(108, 'Shivam', 'Admin', 4000);
