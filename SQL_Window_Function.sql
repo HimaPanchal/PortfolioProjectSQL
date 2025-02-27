@@ -1,35 +1,35 @@
 
-drop table employee;
-create table employee
+DROP TABLE employee;
+CREATE TABLE employee
 ( emp_ID int
 , emp_NAME varchar(50)
 , DEPT_NAME varchar(50)
 , SALARY int);
 
-insert into employee values(101, 'Rajat', 'Admin', 4000);
-insert into employee values(102, 'Brian', 'HR', 3000);
-insert into employee values(103, 'Akbar', 'IT', 4000);
-insert into employee values(104, 'Janine', 'Finance', 6500);
-insert into employee values(105, 'Rana', 'HR', 3000);
-insert into employee values(106, 'Hardeep',  'Finance', 5000);
-insert into employee values(107, 'Preet', 'HR', 7000);
-insert into employee values(108, 'Shivam', 'Admin', 4000);
-insert into employee values(109, 'Jay', 'IT', 6500);
-insert into employee values(110, 'Nandi', 'IT', 7000);
-insert into employee values(111, 'Chloe', 'IT', 8000);
-insert into employee values(112, 'Viren', 'IT', 10000);
-insert into employee values(113, 'Gautham', 'Admin', 2000);
-insert into employee values(114, 'Manisha', 'HR', 3000);
-insert into employee values(115, 'Sanjana', 'IT', 4500);
-insert into employee values(116, 'Perry', 'Finance', 6500);
-insert into employee values(117, 'Eden', 'HR', 3500);
-insert into employee values(118, 'Srivalli', 'Finance', 5500);
-insert into employee values(119, 'Kary', 'HR', 8000);
-insert into employee values(120, 'Panna', 'Admin', 5000);
-insert into employee values(121, 'Deena', 'IT', 6000);
-insert into employee values(122, 'Argel', 'IT', 8000);
-insert into employee values(123, 'Albert', 'IT', 8000);
-insert into employee values(124, 'Dheeren', 'IT', 11000);
+INSERT into employee values(101, 'Rajat', 'Admin', 4000);
+INSERT into employee values(102, 'Brian', 'HR', 3000);
+INSERT into employee values(103, 'Janine', 'IT', 4000);
+INSERT into employee values(104, 'Jayesh', 'Finance', 6500);
+INSERT into employee values(105, 'Rana', 'HR', 3000);
+INSERT into employee values(106, 'Hardeep',  'Finance', 5000);
+INSERT into employee values(107, 'Preet', 'HR', 7000);
+INSERT into employee values(108, 'Shivam', 'Admin', 4000);
+INSERT into employee values(109, 'Karan', 'IT', 6500);
+INSERT into employee values(110, 'Nandi', 'IT', 7000);
+INSERT into employee values(111, 'Chloe', 'IT', 8000);
+INSERT into employee values(112, 'Viren', 'IT', 10000);
+INSERT into employee values(113, 'Gautham', 'Admin', 2000);
+INSERT into employee values(114, 'Manisha', 'HR', 3000);
+INSERT into employee values(115, 'Sanjana', 'IT', 4500);
+INSERT into employee values(116, 'Perry', 'Finance', 6500);
+INSERT into employee values(117, 'Eden', 'HR', 3500);
+INSERT into employee values(118, 'Srivalli', 'Finance', 5500);
+INSERT into employee values(119, 'Kary', 'HR', 8000);
+INSERT into employee values(120, 'Panna', 'Admin', 5000);
+INSERT into employee values(121, 'Deena', 'IT', 6000);
+INSERT into employee values(122, 'Argel', 'IT', 8000);
+INSERT into employee values(123, 'Albert', 'IT', 8000);
+INSERT into employee values(124, 'Dheeren', 'IT', 11000);
 COMMIT;
 
 
